@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4377339816899943927
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1628346443483365671, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: trashType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628346443483365671, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: maxFallSpeed
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628346443483365671, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: minFallSpeed
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628346443483365671, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: maxRotateSpeed
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628346443483365671, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: minRotateSpeed
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628346443483365671, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: sprites.Array.size
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628346443483365671, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: sprites.Array.data[0]
+      value: 
+      objectReference: {fileID: 21300000, guid: 1ecd2e0c3356da24cac982fca82a5335, type: 3}
+    - target: {fileID: 1628346443483365671, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: sprites.Array.data[1]
+      value: 
+      objectReference: {fileID: 21300000, guid: be677606589f1234ea73b0fc23c01ef0, type: 3}
+    - target: {fileID: 1628346443483365671, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: sprites.Array.data[2]
+      value: 
+      objectReference: {fileID: 21300000, guid: 8b10956a47fb19443921edc8286a3fab, type: 3}
+    - target: {fileID: 1628346443483365671, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: sprites.Array.data[3]
+      value: 
+      objectReference: {fileID: 21300000, guid: 58faae74325f549419468efee35a9439, type: 3}
+    - target: {fileID: 1628346443483365671, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: sprites.Array.data[4]
+      value: 
+      objectReference: {fileID: 21300000, guid: 9f62bcdd1526e894fa10177b0d63e2f8, type: 3}
+    - target: {fileID: 1628346443483365671, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: sprites.Array.data[5]
+      value: 
+      objectReference: {fileID: 21300000, guid: d277542dcd3bc7f4dbf8dd038f0b60f3, type: 3}
+    - target: {fileID: 1628346443483365671, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: sprites.Array.data[6]
+      value: 
+      objectReference: {fileID: 21300000, guid: ce048083dbeb8df488cab0862a5a486d, type: 3}
+    - target: {fileID: 1628346443483365671, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: sprites.Array.data[7]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628346443483365689, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: m_Name
+      value: TrashRed
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628346443483365690, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628346443483365690, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628346443483365690, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628346443483365690, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628346443483365690, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628346443483365690, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628346443483365690, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628346443483365690, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628346443483365690, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628346443483365690, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628346443483365690, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628346444147090693, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1628346444147090695, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 1ecd2e0c3356da24cac982fca82a5335, type: 3}
+    - target: {fileID: 1628346444147090695, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 669c0c7862799674ea4ae8f1508fe0d7, type: 3}
